@@ -21,7 +21,7 @@
     "rss-parser": "3.4.3",
     "sequelize": "5.15.1",
     "snekfetch": "4.0.4",
-    "sqlite3": "5.0.0",
+    "sqlite3": "5.1.5",
     "winston": "3.0.0",
     "winston-daily-rotate-file": "3.3.2"
   },
